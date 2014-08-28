@@ -1,0 +1,16 @@
+{
+  "name": "aem_utilities_byliner",
+  "version": "0.0.1",
+  "engines": [
+    "node >= 0.4.0"
+  ],
+  "main": "byliner.js",
+  "dependencies": {
+    "moment": "~2.5.1",
+    "byline": "~4.1.1",
+    "log4js": "~0.6.10",
+    "node-uuid": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
